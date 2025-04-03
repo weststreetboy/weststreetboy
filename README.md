@@ -1,7 +1,7 @@
 ## README.md
  
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7bf763&width=435&lines=欢迎来到Angel Studio！&center=true&size=27" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7bf763&width=435&lines=欢迎来到zuikeaideren Studio！&center=true&size=27" alt="Typing SVG" />
   </a>
 </div>
  
